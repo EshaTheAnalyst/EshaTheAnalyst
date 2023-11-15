@@ -15,7 +15,7 @@
 
 - 📫 You can reach me via E-Mail: **naz.esha08@gmail.com**
 
-- ⚡ **I am the person, who wants to gain Knowledge everytime and everywhere**
+- ⚡ **I am a person, who wants to gain Knowledge everytime and everywhere.**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/esha-naz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
