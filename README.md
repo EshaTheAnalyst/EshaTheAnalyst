@@ -23,7 +23,7 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NazEsha&show_icons=true&locale=en&layout=compact" alt="Esha-Naz" /></p>-->
 <p>
-  <img width = "100%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NazEsha&" alt="Esha-Naz" />
+  <img width = "100%"  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NazEsha&" alt="Esha-Naz" />
     &nbsp;<img  width = "100%" src="https://github-readme-stats.vercel.app/api?username=NazEsha&show_icons=true&locale=en" alt="Esha-Naz" />
 </p>
 <p></p>
