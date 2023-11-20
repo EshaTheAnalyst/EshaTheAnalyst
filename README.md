@@ -1,8 +1,6 @@
-- <img src="https://github.com/Nimra-Mughal/Nimra-Mughal/blob/main/Blue%20Modern%20Technology%20LinkedIn%20Banner.png" width="100%">
+![Esha Naz](https://github.com/NazEsha/NazEsha/assets/150829632/f7ee2fcd-8e24-4bbe-985d-1fa04c0e26f4)
 
-
-<h1 align="center">Hello World! 👋, I'm Esha Naz</h1>
-<h3 align="center">A passionate learner.</h3>
+<h1 align="center">Hello World! 👋</h1>
 <img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NazEsha&label=Profile%20views&color=0e75b6&style=flat" alt="Esha-Naz" /> </p>
@@ -10,8 +8,6 @@
 - 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NazEsha](https://github.com/NazEsha)
-
-- 💬 Ask me about **any thing I mentioned below🔽**
 
 - 📫 You can reach me via E-Mail: **naz.esha08@gmail.com**
 
